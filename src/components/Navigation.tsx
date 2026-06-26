@@ -6,7 +6,7 @@ import { usePathname } from "next/navigation";
 const navItems = [
   { href: "/", label: "Dashboard" },
   { href: "/market", label: "Market Sizing" },
-  { href: "/index", label: "Compute Index" },
+  { href: "/compute-index", label: "Compute Index" },
   { href: "/icp", label: "ICP Profiles" },
   { href: "/outreach", label: "Outreach Engine" },
   { href: "/competitive", label: "Competitive Map" },

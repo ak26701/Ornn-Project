@@ -59,9 +59,6 @@ export default function Navigation() {
           >
             Live
           </span>
-          <span className="text-xs" style={{ color: "#6b7280" }}>
-            Arhan Khan · GTM Candidate
-          </span>
         </div>
       </div>
     </nav>
